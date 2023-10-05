@@ -84,7 +84,7 @@ rm -rf NPB3.4-MPI_* \
        *.tmpl \
        run_all_benchmarks.sh \
        create_csv.py \
-       create_viz.py \
+       create_vis.py \
        run_postprocessing.sbatch \
        make_clean.sh
 EOF
