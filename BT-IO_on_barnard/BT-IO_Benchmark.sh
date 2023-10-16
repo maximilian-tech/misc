@@ -1,4 +1,4 @@
-#!/bin/env
+#!/bin/env bash
 
 # This script evaluates the IO performance of a file system
 # using the NAS NPB BT-IO Benchmark test.
